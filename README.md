@@ -1,4 +1,4 @@
-Latest Bsdiff code, ver ver4.3 [link](http://www.daemonology.net/bsdiff/)
+Latest version of bsdiff code, ver ver4.3 [author's link](http://www.daemonology.net/bsdiff/).
 
 
 ## Prepare 
