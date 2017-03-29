@@ -1,7 +1,7 @@
-Latest version of bsdiff code, ver ver4.3 [author's link](http://www.daemonology.net/bsdiff/).
+Latest version of bsdiff, version 4.3
 
 
-## Prepare 
+## 1.Prepare 
 to compile, depende on build-essential and libbz2-dev
 
 ```  
@@ -9,18 +9,18 @@ apt-get install libbz2-dev
 apt-get install libbz2-dev
 ```
 
-## Compile
+## 2.Compile
 ```
 clone https://github.com/panxw/bsdiff-mirror.git
 cd bsdiff-mirror
 make clean & make
 ``` 
 
-## Usage 
+## 3.Usage 
 ```
 bsdiff oldfile newfile patchfile 
 bspatch oldfile new file patchfile  
 ``` 
 
-## License 
-MIT
+## 4License 
+[Click to the author of bsdiff](http://www.daemonology.net/bsdiff/)
